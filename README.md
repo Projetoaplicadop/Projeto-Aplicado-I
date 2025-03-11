@@ -6,9 +6,6 @@
 
 **Descrição:** A organização escolhida para este estudo é a Secretaria Municipal de Educação de São Paulo (SME-SP), responsável pela gestão da rede municipal de ensino na cidade de São Paulo. Segundo a SME-SP, “a Secretaria Municipal de Educação de São Paulo é responsável pela formulação e implementação de políticas públicas educacionais, garantindo o acesso, a permanência e a aprendizagem dos estudantes” (SME-SP, 2025a). A SME-SP administra escolas de educação infantil, ensino fundamental e programas educacionais voltados para o desenvolvimento da qualidade de ensino (SME-SP, 2025).
 
-**História:** 
-
-
 **Fonte e Dados**
 **Apresentação dos Dados (Metadados):**  Os principais metadados dos conjuntos de dados utilizados incluem:
 
