@@ -1,5 +1,12 @@
 **PROJETO DE ANÁLISE DO IDEB E DESIGUALDADE EDUCACIONAL EM SÃO PAULO**
 
+**Integrantes do Grupo**
+
+FERNANDO ALVES TUCCI NEGREIROS
+KARLA MARIA RAMOS DA SILVA
+LUCAS JOSÉ DE CARVALHO ANASTÁCIO
+THAINÁ SILVA LEITE
+
 **Objetivo:** Este projeto tem como foco a análise exploratória dos dados como o Índice de Desenvolvimento da Educação Básica (IDEB) varia entre os diferentes distritos da cidade de São Paulo e quais fatores socioeconômicos podem estar correlacionados com essa variação. O objetivo é identificar se escolas localizadas em regiões com menor renda e infraestrutura limitada apresentem IDEB mais baixo, refletindo desigualdades educacionais. Assim como, investigar como o Índice de Desenvolvimento da Educação Básica (IDEB) varia entre os diferentes distritos da cidade de São Paulo e quais fatores socioeconômicos podem estar correlacionados com essa variação. Os resultados serão apresentados por meio de dashboards interativos e relatórios automatizados para oferecer suporte à tomada de decisão estratégica.
 
 **Secretaria Municipal de Educação de São Paulo (SME-SP)**
