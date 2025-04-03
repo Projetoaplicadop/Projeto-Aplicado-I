@@ -2,9 +2,9 @@
 
 **Integrantes do Grupo**
 
-FERNANDO ALVES TUCCI NEGREIROS
+Fernando Alves Tucci Negreiros
 
-KARLA MARIA RAMOS DA SILVA
+KARLA MARIA RAMOS DA SILVA Karla Maria Ramos da Silva
 
 LUCAS JOSÉ DE CARVALHO ANASTÁCIO
 
