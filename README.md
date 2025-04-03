@@ -4,11 +4,11 @@
 
 Fernando Alves Tucci Negreiros
 
-KARLA MARIA RAMOS DA SILVA Karla Maria Ramos da Silva
+Karla Maria Ramos da Silva
 
-LUCAS JOSÉ DE CARVALHO ANASTÁCIO
+Lucas José de Carvalho Anastácio
 
-THAINÁ SILVA LEITE
+Thainá Silva Leite
 
 **Objetivo:** Este projeto tem como foco a análise exploratória dos dados como o Índice de Desenvolvimento da Educação Básica (IDEB) varia entre os diferentes distritos da cidade de São Paulo e quais fatores socioeconômicos podem estar correlacionados com essa variação. O objetivo é identificar se escolas localizadas em regiões com menor renda e infraestrutura limitada apresentem IDEB mais baixo, refletindo desigualdades educacionais. Assim como, investigar como o Índice de Desenvolvimento da Educação Básica (IDEB) varia entre os diferentes distritos da cidade de São Paulo e quais fatores socioeconômicos podem estar correlacionados com essa variação. Os resultados serão apresentados por meio de dashboards interativos e relatórios automatizados para oferecer suporte à tomada de decisão estratégica.
 
